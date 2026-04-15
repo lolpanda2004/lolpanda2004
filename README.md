@@ -134,13 +134,6 @@ Prompt Engineering • TensorFlow • PyTorch • Azure OpenAI API • Groq API
 
 ---
 
-## 📊 System Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lolpanda2004&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lolpanda2004&layout=compact&theme=radical)
-
----
-
 ## 🤝 Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/lathika-devanand/  
