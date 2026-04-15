@@ -116,7 +116,7 @@ During my internship phase:
 ## 🧬 Tech Stack
 
 **Languages:**  
-Python • Java • JavaScript • Kotlin  
+Python • JavaScript • Dart 
 
 **Frontend & Mobile:**  
 React • Flutter  
@@ -125,11 +125,12 @@ React • Flutter
 FastAPI • Node.js • Scheduling Systems  
 
 **Cloud & Data:**  
-AWS • Azure • GCP • Oracle Cloud  
+AWS • Azure • GCP • Oracle Cloud API
+Oracle Fusion • Oracle OIC
 SQLite • ATP Database  
 
 **AI / ML:**  
-Prompt Engineering • TensorFlow • PyTorch • Azure OpenAI  
+Prompt Engineering • TensorFlow • PyTorch • Azure OpenAI API • Groq API
 
 ---
 
