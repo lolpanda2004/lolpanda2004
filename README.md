@@ -47,7 +47,7 @@ Enterprise systems often lack:
 
 ### 🧠 AI Contribution
 
-- Improved **invoice classification accuracy to 95%**  
+- Improved **invoice classification accuracy to 95%** for a product named **Exilify** for the client **Tabasco**
 - Achieved through:
   - Prompt engineering  
   - Business rule integration  
